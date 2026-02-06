@@ -89,17 +89,6 @@ python script.py
 Disease symptoms NLP.csv
 ```
 
----
-
-## 📁 File Path Notes
-
-* Only **dataset filenames** are used (no absolute paths)
-* Ensures:
-
-  * Cross-platform compatibility
-  * Easy GitHub sharing
-  * Kaggle-ready execution
-  * Clean and portable code
 
 ---
 
